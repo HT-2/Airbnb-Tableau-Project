@@ -1,5 +1,4 @@
-## Airbnb Property Analysis Dashboard
-# A simple interactive dashboard on Tableau showcasing analytics on Airbnb data
+# Airbnb Property Analysis Dashboard
 
 ## Overview
 This project aims to assist property owners in making informed decisions about listing their properties on Airbnb in Washington, DC. The client has several properties and wants to optimize their listing strategy. The following key questions are addressed:
