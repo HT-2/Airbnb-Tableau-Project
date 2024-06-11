@@ -3,7 +3,6 @@
 ## Overview
 This project aims to assist property owners in making informed decisions about listing their properties on Airbnb in Washington, DC. The client has several properties and wants to optimize their listing strategy. The following key questions are addressed:
 
-
 1. **Average Price by Zip Code:**
    - What is the average price of properties in different zip codes across Washington, DC?
    - How can this information help determine the best price for listing?
